@@ -74,4 +74,10 @@ Question 14F: <code>true</code>, because 2's boolean value (obtained from the ex
 
 Question 15: == compares value only, using conversions as appropriate. === compares both values and data types.
 
-Question 16: See the file <code>part1b-question16.js</code>.
+Question 16: See the file <code>part1b-question16.js</code>
+
+Question 17: <code>modifyArray</code> is just a funtion that loops through the items of the input array and applies the input function to each. Thereby, upon taking in the array <code>[1,2,3]</code> and the function <code>doSomething()</code> that simply returns its input but multiplied by 2, the loop results in the array <code>[2,4,6]</code>.
+
+Question 18: See the file <code>part1b-question18.js</code>
+
+Question 19: First <code>1</code>, then <code>3</code>, then <code>4</code>, and finally <code>2</code>.
